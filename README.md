@@ -1,61 +1,48 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## Tentang Fruitables
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Fruitables adalah sebuah template website yang dirancang untuk menampilkan produk sayuran dan buah-buahan segar. Website ini menawarkan pengalaman pengguna yang menarik dengan desain yang responsif dan fitur-fitur yang memudahkan pengunjung untuk menjelajahi produk yang ditawarkan.
 
-## About Laravel
+## Cara Clone
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Berikut adalah langkah-langkah untuk meng-clone repository ini:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+1. Pastikan Anda telah menginstal Git di komputer Anda. Jika belum, Anda dapat mengunduh dan menginstalnya dari [git-scm.com](https://git-scm.com/).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+2. Buka terminal atau command prompt di komputer Anda.
 
-## Learning Laravel
+3. Arahkan ke direktori di mana Anda ingin menyimpan salinan repository ini.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+4. Jalankan perintah berikut untuk meng-clone repository:
+   ```
+   git clone https://github.com/Xannydayo/project_sayurid.git
+   ```
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+5. Setelah proses cloning selesai, masuk ke direktori proyek dengan perintah:
+   ```
+   cd fruitables
+   ```
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Cara Penggunaan
 
-## Laravel Sponsors
+1. **Navigasi**: Gunakan menu navigasi di bagian atas halaman untuk berpindah antara halaman utama, halaman produk, dan halaman kontak.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+2. **Melihat Produk**: Pada halaman produk, Anda dapat melihat berbagai macam sayuran dan buah-buahan yang tersedia. Klik pada produk untuk melihat detail lebih lanjut.
 
-### Premium Partners
+3. **Kontak Kami**: Jika Anda memiliki pertanyaan atau ingin menghubungi kami, silakan kunjungi halaman kontak. Di sana, Anda akan menemukan informasi kontak dan formulir untuk mengirim pesan langsung kepada kami.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development/)**
-- **[Active Logic](https://activelogic.com)**
+4. **Kembali ke Atas**: Gunakan tombol "Back to Top" yang tersedia di setiap halaman untuk kembali ke bagian atas halaman dengan cepat.
 
-## Contributing
+## Teknologi yang Digunakan
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Website ini dibangun menggunakan framework Laravel, yang dikenal dengan sintaks yang ekspresif dan elegan. Laravel memudahkan pengembangan dengan menyediakan berbagai fitur seperti:
 
-## Code of Conduct
+- Mesin routing yang cepat dan sederhana.
+- Kontainer injeksi dependensi yang kuat.
+- ORM database yang intuitif dan ekspresif.
+- Migrasi skema yang agnostik terhadap database.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Lisensi
 
-## Security Vulnerabilities
+Template Fruitables adalah perangkat lunak open-source yang dilisensikan di bawah lisensi [MIT](https://opensource.org/licenses/MIT).
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Untuk informasi lebih lanjut tentang cara menggunakan dan mengembangkan website ini, silakan merujuk ke dokumentasi Laravel di [laravel.com/docs](https://laravel.com/docs).
